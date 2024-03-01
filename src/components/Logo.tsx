@@ -1,5 +1,5 @@
 import React from "react";
-import LogoImg from "../../public/S.png"
+import LogoImg from "../../public/ankit-logo.png"
 import Image from "next/image";
 function Logo() {
   return (

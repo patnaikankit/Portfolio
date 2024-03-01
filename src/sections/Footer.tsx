@@ -25,11 +25,11 @@ function Footer() {
   return (
     <footer>
       <Link
-        href="https://github.com/Sapnajha19"
+        href="https://github.com/patnaikankit"
         target="_blank"
         className="footer-link"
       >
-        <span className="footer-info">Designed and Built by Sapna Jha.</span>
+        <span className="footer-info">Crafted by Ankit Patnaik </span>
         {/* {githubInfo && (
           <div className="footer-git">
             <div className="footer-git-item">
